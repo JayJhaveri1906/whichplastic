@@ -1,16 +1,5 @@
 # WhichPlastic
 
-Discover which kind of pastic you ar buying
+Discover which kind of pastic you are buying!
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enhancing awareness about the impact of what we consume is the motivation to develop Which Plastic. There are at least 7 types of plastic, only 2 of those are often recycled, and other 2 are even toxic. Identification numbers are printed on the products' packages to help  identifying the product you're buying. However, most people don't know what those numbers really mean, so we buy considering "it's all plastic". By spreading information in a fun way, our app will help people and nature at once
