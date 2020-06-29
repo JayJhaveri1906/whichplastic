@@ -7,6 +7,6 @@ Enhancing awareness about the impact of what we consume is the motivation to dev
 
 
 <p align="center">
-  <img src="https://github.com/michelicart/whichplastic/blob/master/PrintsScreens/Screens.gif" width="350" title="Which Plastic">
+ 
   <img src="https://github.com/michelicart/whichplastic/blob/master/PrintsScreens/Screens.gif" width="350" alt="Which Plastic">
 </p>
