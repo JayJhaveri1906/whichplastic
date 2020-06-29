@@ -1,4 +1,4 @@
-# whatplastic
+# WhichPlastic
 
 Discover which kind of pastic you ar buying
 
